@@ -1,0 +1,12 @@
+200 dolphin 
+200 shark
+300 turtle 
+400 seal 
+400 whale
+600 fish 
+
+
+
+
+
+
